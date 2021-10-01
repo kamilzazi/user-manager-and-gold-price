@@ -54,7 +54,7 @@ export default {
             this.alert = false;
           }, 1000);
       } else {
-        alert("FILL IN ALL DATA!!");
+        alert("FILL IN ALL DATA!");
       }
     },
   },
