@@ -1,5 +1,4 @@
 # User manager and API gold price
-## after create new branch1
 ```
 
 ## Project setup
