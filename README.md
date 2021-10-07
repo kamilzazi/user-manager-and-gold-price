@@ -1,5 +1,4 @@
 # User manager and API gold price
-### Some changes
 ```
 
 ## Project setup
