@@ -1,3 +1,6 @@
+# User manager and API gold price
+```
+
 ## Project setup
 ```
 npm install
